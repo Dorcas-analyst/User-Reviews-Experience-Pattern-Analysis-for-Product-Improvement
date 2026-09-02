@@ -3,7 +3,7 @@
 ## Project Overview
 
 This capstone project analyzed 191 distinct user reviews collected across multiple platforms, including Google Play Store, Reddit, Quora, Trustpilot, Google Reviews, and reviews relating to Upwork, Fiverr, Freelancer, Glassdoor, and LinkedIn.
-The objective was to identify patterns in user experiences and understand factors influencing **satisfaction, recommendation likelihood, and churn risk**.
+The objective was to identify patterns in user experiences and understand factors influencing satisfaction, recommendation likelihood, and churn risk.
 
 ### My Contribution
 
@@ -17,8 +17,8 @@ As a member of the data analytics team, I contributed to:
 
 ### Tools & Skills
 
-* **Excel**
-* **Power BI**
+* Excel
+* Power BI
 * Data Collection
 * Data Cleaning & Preparation
 * Exploratory Data Analysis
@@ -36,4 +36,4 @@ The analysis identified several important patterns:
 * Trust and safety concerns showed the highest churn severity.
 * Payment and performance issues were also strongly associated with churn risk.
 
-The project demonstrated how unstructured user feedback can be transformed into structured analytical insights that support **product improvement, user experience, trust, reliability, and retention strategies**.
+The project demonstrated how unstructured user feedback can be transformed into structured analytical insights that support product improvement, user experience, trust, reliability, and retention strategies.
