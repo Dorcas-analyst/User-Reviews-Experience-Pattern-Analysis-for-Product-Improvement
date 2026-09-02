@@ -1,6 +1,3 @@
-# User-Reviews-Experience-Pattern-Analysis-for-Product-Improvement
-This capstone project analyzed 191 distinct user reviews collected across multiple platforms, including Google Play Store, Reddit, Quora, Trustpilot, Google Reviews, and reviews relating to Upwork, Fiverr, Freelancer, Glassdoor, and LinkedIn. The objective was to identify patterns in user experiences and understand factors influencing satisfaction.
-
 # User Reviews & Experience Pattern Analysis for Product Improvement
 
 ## Project Overview
