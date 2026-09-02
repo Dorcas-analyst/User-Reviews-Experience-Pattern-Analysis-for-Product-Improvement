@@ -1,5 +1,5 @@
 # User Reviews & Experience Pattern Analysis for Product Improvement
-![Power BI Dashboard](FirstDashboard.PNG)
+![Power BI Dashboard](First Dashboard.PNG)
 ## Project Overview
 
 This capstone project analyzed 191 distinct user reviews collected across multiple platforms, including Google Play Store, Reddit, Quora, Trustpilot, Google Reviews, and reviews relating to Upwork, Fiverr, Freelancer, Glassdoor, and LinkedIn.
